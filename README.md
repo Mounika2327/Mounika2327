@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi  👋
 
 My name is Mangaratnam, I am currently an Undergraduate in Electronics and Communication Engineering (3rd Year, B.Tech – Aditya University). With a CGPA of 9.16, I am passionate about VLSI Design, Digital Systems, and Protocol Verification. I am fascinated by how millions of devices are integrated into a single chip and how RTL coding & verification methodologies bring them to life.
 
 ## 🔹Technologies I’m Skilled In:
 
- • HDL: Verilog
- • HVL: SystemVerilog
- • Verification Methodology: Functional Verification | Testbench Development 
- • EDA Tools: Xilinx Vivado | Cadence Xcelium 
- • Domain: VLSI Front-End Design & Verification 
- • Protocols: UART, SPI, I2C, APB, AXI (Currently learning PCIe)
- • Programming Languages: C, Python
- • Core Skills: RTL Coding | Testbench Writing in SystemVerilog | Digital Circuit Design 
+ • **HDL:** Verilog
+ • **HVL:** SystemVerilog
+ • **Verification Methodology:** Functional Verification | Testbench Development 
+ • **EDA Tools:** Xilinx Vivado | Cadence Xcelium 
+ • **Domain:** VLSI Front-End Design & Verification 
+ • **Protocols:** UART, SPI, I2C, APB, AXI (Currently learning PCIe)
+ • **Programming Languages:** C, Python
+ • **Core Skills:** RTL Coding | Testbench Writing in SystemVerilog | Digital Circuit Design 
 
 ## 🔹 Other Skills:
 MATLAB || PSpice  || Git & GitHub || Microsoft Office
@@ -27,9 +27,9 @@ MATLAB || PSpice  || Git & GitHub || Microsoft Office
 
 ## 📜 Certifications:
 
-- **Cisco**
+- **Cisco** –    
   – C Programming Language  
-- **ITSpecialist**
+- **ITSpecialist** – 
    – HTML & CSS  
 - **Cadence** –  
   - Semiconductor 101 v1.0
@@ -37,7 +37,7 @@ MATLAB || PSpice  || Git & GitHub || Microsoft Office
   - Behavioral Modeling with Verilog-AMS v24.03
   - SystemVerilog for Design and Verification v21.10 
   
-- **IIT Bombay Spoken Tutorials**
+- **IIT Bombay Spoken Tutorials** – 
   – Python, C++  
 
 
