@@ -30,14 +30,13 @@ MATLAB || PSpice  || Git & GitHub || Microsoft Office
   – HTML & CSS
 
 ➤ Cadence:
-  – Semiconductor 101 v1.0  (Online)  (5/7/2025)
-  – Digital IC Design Fundamentals v2.0 (Online)  (5/7/2025)
-  – Behavioral Modeling with Verilog-AMS v24.03 (Online)  (5/7/2025)
-  – SystemVerilog for Design and Verification v21.10 (Online)  (8/14/2025)
+  – Semiconductor 101 v1.0  (Online)  (5/7/2025) , Digital IC Design Fundamentals v2.0 (Online)  (5/7/2025)
+  , Behavioral Modeling with Verilog-AMS v24.03 (Online)  (5/7/2025)
+  , SystemVerilog for Design and Verification v21.10 (Online)  (8/14/2025)
 
 ➤ IIT Bombay Spoken Tutorials 
    – Python
-   – C++
+   , C++
 
 🚀 Future Aspirations:
 Currently exploring PCIe Protocol and verification flows. Open to internships, collaborations, and research opportunities in VLSI Design & Verification.
