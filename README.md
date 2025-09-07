@@ -47,7 +47,6 @@ My name is Mangaratnam, I am currently an Undergraduate in Electronics and Commu
   - Digital IC Design Fundamentals v2.0
   - Behavioral Modeling with Verilog-AMS v24.03
   - SystemVerilog for Design and Verification v21.10 
-  
 - **IIT Bombay Spoken Tutorials**
   -  Python
   -   C++  
