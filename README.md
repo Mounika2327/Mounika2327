@@ -22,24 +22,27 @@ My name is Mangaratnam, I am currently an Undergraduate in Electronics and Commu
    - RTL Coding | Testbench Writing in SystemVerilog | Digital Circuit Design 
 
 ## 🔹 Other Skills:
-MATLAB || PSpice  || Git & GitHub || Microsoft Office
+  - MATLAB
+  - PSpice
+  - Git & GitHub
+  -  Microsoft Office
 
 ## 📂 Projects:
 
-### •  **APB Protocol Interfacing** 
- – Designed & verified APB protocol with 1 master and 3 slaves; developed SystemVerilog testbenches and verified slave states (Hold, Setup, Active).
-###  • **AXI to APB Bridge** 
- – Implemented and verified a bridge for communication between AXI & APB protocols.
-### • **AHB to APB Bridge** 
- – Implemented and verified a bridge for communication between AHB & APB protocols.
+ - **APB Protocol Interfacing**
+   - Designed & verified APB protocol with 1 master and 3 slaves; developed SystemVerilog testbenches and verified slave states (Hold, Setup, Active).
+ - **AXI to APB Bridge**
+   - Implemented and verified a bridge for communication between AXI & APB protocols.
+ - **AHB to APB Bridge**
+   - Implemented and verified a bridge for communication between AHB & APB protocols.
 
 ## 📜 Certifications:
 
-- **Cisco** –
+- **Cisco** 
   -  C Programming Language  
-- **ITSpecialist** –
+- **ITSpecialist** 
   - HTML & CSS  
-- **Cadence** –  
+- **Cadence**   
   - Semiconductor 101 v1.0
   - Digital IC Design Fundamentals v2.0
   - Behavioral Modeling with Verilog-AMS v24.03
