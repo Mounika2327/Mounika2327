@@ -4,22 +4,22 @@ My name is Mangaratnam, I am currently an Undergraduate in Electronics and Commu
 
 ## 🔹Technologies I’m Skilled In:
 
- • **HDL:** –
-   – Verilog
- • **HVL:** –
-   –SystemVerilog
- • **Verification Methodology:** –
-   –Functional Verification | Testbench Development 
- • **EDA Tools:** –
-   – Xilinx Vivado | Cadence Xcelium 
- • **Domain:** –
-   –VLSI Front-End Design & Verification 
- • **Protocols:** –
-   –UART, SPI, I2C, APB, AXI (Currently learning PCIe)
- • **Programming Languages:** –
-   – C, Python
- • **Core Skills:** –
-   –RTL Coding | Testbench Writing in SystemVerilog | Digital Circuit Design 
+ - **HDL:**
+   - Verilog
+ - **HVL:** 
+   - SystemVerilog
+ - **Verification Methodology:**
+   - Functional Verification | Testbench Development 
+ - **EDA Tools:**
+   - Xilinx Vivado | Cadence Xcelium 
+ - **Domain:**
+   - VLSI Front-End Design & Verification 
+ - **Protocols:**
+   - UART, SPI, I2C, APB, AXI (Currently learning PCIe)
+ - **Programming Languages:**
+   - C, Python
+ - **Core Skills:**
+   - RTL Coding | Testbench Writing in SystemVerilog | Digital Circuit Design 
 
 ## 🔹 Other Skills:
 MATLAB || PSpice  || Git & GitHub || Microsoft Office
@@ -35,18 +35,19 @@ MATLAB || PSpice  || Git & GitHub || Microsoft Office
 
 ## 📜 Certifications:
 
-- **Cisco** –    
-  – C Programming Language  
-- **ITSpecialist** – 
-   – HTML & CSS  
+- **Cisco** –
+  -  C Programming Language  
+- **ITSpecialist** –
+  - HTML & CSS  
 - **Cadence** –  
   - Semiconductor 101 v1.0
   - Digital IC Design Fundamentals v2.0
   - Behavioral Modeling with Verilog-AMS v24.03
   - SystemVerilog for Design and Verification v21.10 
   
-- **IIT Bombay Spoken Tutorials** – 
-  – Python, C++  
+- **IIT Bombay Spoken Tutorials**
+  -  Python
+  -   C++  
 
 
 ## 🚀 Future Aspirations:
