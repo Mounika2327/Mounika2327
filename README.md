@@ -34,7 +34,7 @@
 
 ## ⚙️ Tech Stack  
 
-<div align="center">
+<div>
 
 ### 🧩 Hardware Description & Verification Languages  
 | Verilog | SystemVerilog |
