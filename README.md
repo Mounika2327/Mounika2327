@@ -1,112 +1,107 @@
-<!-- =========================== -->
-<!--   MANGARATNAM KONDAPALLI    -->
-<!-- =========================== -->
+<h1 align="center">
+    👋 Hi, I'm <b>Mangaratnam Kondapalli</b>
+</h1>
 
-<h1 align="center">👋 Hi, I'm <b>Mangaratnam Kondapalli</b></h1>
-
-<h3 align="center">🚀 Aspiring VLSI Design & Verification Engineer | B.Tech ECE (3rd Year) | Aditya University</h3>
+<h3 align="center">
+    🔬 Aspiring **VLSI Design & Verification Engineer** | B.Tech ECE (3rd Year) @ Aditya University
+</h3>
 
 <p align="center">
-  📧 <a href="mailto:mangaratnamkondapalli@gmail.com">mangaratnamkondapalli@gmail.com</a> |
-  🌐 <a href="https://www.linkedin.com/in/mangaratnam-kondapalli-a2aa55353/">LinkedIn</a> |
-  💻 <a href="https://github.com/Mounika2327">GitHub</a>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </p>
 
 ---
 
-## 🧠 About Me  
+## 💡 Quick Overview
 
-- 🎓 **B.Tech in Electronics & Communication Engineering (3rd Year)** — *Aditya University* (CGPA: **9.16**)  
-- 💡 Passionate about **VLSI Design, RTL Coding, and Protocol Verification**  
-- 🔍 Fascinated by how **millions of transistors** are integrated on a single chip  
-- 💻 Skilled in **Verilog RTL Design** and **SystemVerilog Verification**  
-- 🚀 Currently exploring **PCIe Protocol** and **UVM-based verification methodologies**
-
-> “Bringing digital designs to life, one RTL block at a time.”
-
----
-
-## ⚙️ Technical Skills  
-
-### **Hardware Description & Verification Languages**
-- Verilog  
-- SystemVerilog  
-
-### **Programming Languages**
-- C  
-- Python  
-
-### **Protocols**
-- UART  
-- SPI  
-- I2C  
-- APB  
-- AXI  
-- PCIe *(Learning)*  
-
-### **EDA Tools**
-- Xilinx Vivado  
-- Cadence Xcelium  
-- MATLAB  
-- PSpice  
-
-### **Other Tools**
-- Git & GitHub  
-- Microsoft Office  
+| Metric | Details |
+| :--- | :--- |
+| **Current Focus** | SystemVerilog Verification, UVM (Learning), PCIe Protocol |
+| **Education** | B.Tech ECE (3rd Year) — **CGPA: 9.16/10.0** |
+| **Core Expertise** | RTL Design, OOPs in SystemVerilog, Protocol Verification (APB, AXI) |
+| **Motto** | *“Bringing digital designs to life, one RTL block at a time.”* |
 
 ---
 
-## 📂 Projects  
+## 🛠️ Core Verification & Design Toolkit
 
-### **🔹 APB Protocol Interfacing**
-- Designed and verified **APB protocol** with **1 master and 3 slaves**.  
-- Developed **SystemVerilog testbenches** to verify Hold, Setup, and Active states.  
-- Strengthened understanding of **APB communication and timing analysis**.
+This table prioritizes your hands-on verification and design experience, grouping related tools and languages for maximum impact.
 
-### **🔹 AXI to APB Bridge**
-- Designed and verified a **bridge interface** for **AXI–APB communication**.  
-- Focused on **data synchronization, handshaking, and latency reduction**.  
-- Verified using **SystemVerilog testbenches**.  
-
-### **🔹 AHB to APB Bridge**
-- Implemented **inter-protocol communication** between **AHB** and **APB**.  
-- Verified using **SystemVerilog**.  
-- Enhanced understanding of **AMBA protocol hierarchy**.
+| Category | Languages / Frameworks | Tools / Environments |
+| :--- | :--- | :--- |
+| **Verification Stack (The V-Side)** | **SystemVerilog** | **Cadence Xcelium** (Simulator) |
+| | UVM (*Learning*) | Git & **GitHub** |
+| **Design Stack (The D-Side)** | **Verilog** (RTL) | **Xilinx Vivado** (Synthesis/Impl.) |
+| | C, Python | MATLAB, PSpice |
+| **Protocol Expertise** | **AMBA** (APB, AXI, AHB) | UART, SPI, I2C |
+| | PCIe (*Currently Exploring*) | |
 
 ---
 
-## 🏅 Certifications  
+## 📂 Featured Projects: Inter-Protocol Communication
 
-- **Cisco:** C Programming  
-- **IT Specialist:** HTML & CSS  
-- **Cadence:**  
-  - Semiconductor 101 v1.0  
-  - Digital IC Design Fundamentals v2.0  
-  - Behavioral Modeling with Verilog-AMS v24.03  
-  - SystemVerilog for Design & Verification v21.10  
-- **IIT Bombay Spoken Tutorial:** Python, C++  
+Your projects demonstrate practical application of SystemVerilog in complex, industry-relevant scenarios (AMBA protocols).
+
+### **1. AXI to APB Bridge**
+* Designed and implemented the full **bridge interface** focusing on efficient **AXI-to-APB handshaking** and data transfer.
+* Key Focus: **Data synchronization**, latency minimization, and structural integrity.
+* Verification: Developed **SystemVerilog Testbenches** to ensure functional correctness across the boundary.
+
+### **2. APB Protocol Interfacing (Master/Slave)**
+* Developed a scalable APB subsystem with **1 Master and 3 Slaves**.
+* Verification: Built modular **SystemVerilog Testbenches** to rigorously check protocol timing requirements, including **Hold, Setup, and Active states**.
+* Demonstrates strong foundational knowledge of low-power APB communication.
+
+### **3. AHB to APB Bridge**
+* Successfully implemented the inter-protocol communication logic between the **AHB** and **APB** bus protocols.
+* Reinforced deep understanding of the **AMBA protocol hierarchy** and bus bridging techniques.
+* Verified using dedicated SystemVerilog testbenches.
 
 ---
 
-## 📈 GitHub Analytics  
+## 🏅 Certification & Technical Foundation
+
+| Institution | Course / Certification | Focus Area |
+| :--- | :--- | :--- |
+| **Cadence** | SystemVerilog for Design & Verification v21.10 | Core **Functional Verification** |
+| **Cadence** | Digital IC Design Fundamentals v2.0 | Digital RTL and Design Principles |
+| **Cisco** | C Programming | Foundational Programming & Algorithms |
+| **IIT Bombay** | Python, C++ | Scripting and OOPs Fundamentals |
+| **Cadence** | Semiconductor 101 v1.0 | Industry Concepts & VLSI Flow |
+
+---
+
+## 📈 GitHub Activity: My Coding Pulse
+
+Metrics showcasing consistent activity and language usage.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mounika2327&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika2327&theme=default&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mounika2327&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&line_height=25" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika2327&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika2327&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika2327&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Connect with Me  
+## 🌐 Get in Touch
 
-- 📧 Email: [mangaratnamkondapalli@gmail.com](mailto:mangaratnamkondapalli@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mangaratnam-kondapalli-a2aa55353](https://www.linkedin.com/in/mangaratnam-kondapalli-a2aa55353/)  
-- 💻 GitHub: [github.com/Mounika2327](https://github.com/Mounika2327)
+<p align="center">
+    <a href="mailto:mangaratnamkondapalli@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/mangaratnam-kondapalli-a2aa55353/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Mounika2327">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</p>
 
----
-
-<h3 align="center">⭐ “Design it. Verify it. Innovate it.” ⭐</h3>
+<h3 align="center">⭐ *Design it. Verify it. Innovate it.* ⭐</h3>
