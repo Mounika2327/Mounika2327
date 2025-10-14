@@ -3,23 +3,21 @@
 </h1>
 
 <h3 align="center">
-    🔬 Aspiring **VLSI Design & Verification Engineer** | B.Tech ECE (3rd Year) @ Aditya University
+    🔬 Aspiring VLSI Design & Verification Engineer | B.Tech ECE  Aditya University
 </h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mangaratnam-kondapalli-a2aa55353/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mounika2327" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  &nbsp;
-  <a href="mailto:mangaratnamkondapalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
+    <a href="mailto:mangaratnamkondapalli@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/mangaratnam-kondapalli-a2aa55353/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Mounika2327">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
 </p>
-
 ---
 
 ## 🚀 Professional Snapshot
