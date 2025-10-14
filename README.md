@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    🔬 Aspiring VLSI Design & Verification Engineer | B.Tech ECE  Aditya University
+     Aspiring VLSI Design & Verification Engineer | B.Tech ECE  Aditya University
 </h3>
 <p align="center">
     <a href="mailto:mangaratnamkondapalli@gmail.com">
@@ -79,7 +79,7 @@ Showcasing training in industry-standard tools and methodologies.
 
 ---
 
-## 📈 My GitHub Activity: Black & Pink Theme 💜
+## 📈 My GitHub Activity:
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mounika2327&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" />
