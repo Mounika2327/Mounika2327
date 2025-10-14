@@ -7,83 +7,89 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="https://www.linkedin.com/in/mangaratnam-kondapalli-a2aa55353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mounika2327" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:mangaratnamkondapalli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
 
 ---
 
-## 💡 Quick Overview
+## 🚀 Professional Snapshot
 
 | Metric | Details |
 | :--- | :--- |
-| **Current Focus** | SystemVerilog Verification, UVM (Learning), PCIe Protocol |
+| **Current Focus** | SystemVerilog Verification, PCIe Protocol, UVM (Learning) |
 | **Education** | B.Tech ECE (3rd Year) — **CGPA: 9.16/10.0** |
-| **Core Expertise** | RTL Design, OOPs in SystemVerilog, Protocol Verification (APB, AXI) |
-| **Motto** | *“Bringing digital designs to life, one RTL block at a time.”* |
+| **Expertise** | RTL Design, SystemVerilog OOP, Protocol Verification (APB, AXI) |
+| **Goal** | Bridging high-level design concepts to robust, verified silicon. |
 
 ---
 
-## 🛠️ Core Verification & Design Toolkit
+## 🛠️ Technical Skills Stack
 
-This table prioritizes your hands-on verification and design experience, grouping related tools and languages for maximum impact.
+This section highlights the tools and languages directly relevant to a Verification/Design role.
 
 | Category | Languages / Frameworks | Tools / Environments |
 | :--- | :--- | :--- |
-| **Verification Stack (The V-Side)** | **SystemVerilog** | **Cadence Xcelium** (Simulator) |
-| | UVM (*Learning*) | Git & **GitHub** |
-| **Design Stack (The D-Side)** | **Verilog** (RTL) | **Xilinx Vivado** (Synthesis/Impl.) |
-| | C, Python | MATLAB, PSpice |
-| **Protocol Expertise** | **AMBA** (APB, AXI, AHB) | UART, SPI, I2C |
-| | PCIe (*Currently Exploring*) | |
+| **Verification** | **SystemVerilog**, UVM (*Learning*) | **Cadence Xcelium**, Git & GitHub |
+| **RTL Design** | **Verilog** | **Xilinx Vivado** |
+| **Programming** | C, **Python** (for scripting/automation) | MATLAB, PSpice, MS Office |
+| **Protocols** | **AMBA** (APB, AXI, AHB), PCIe (*Exploring*), UART, SPI, I2C | |
 
 ---
 
-## 📂 Featured Projects: Inter-Protocol Communication
+## 🧠 Core Projects: AMBA Protocol Interfacing
 
-Your projects demonstrate practical application of SystemVerilog in complex, industry-relevant scenarios (AMBA protocols).
+These projects demonstrate hands-on experience in building and verifying complex digital systems.
 
 ### **1. AXI to APB Bridge**
-* Designed and implemented the full **bridge interface** focusing on efficient **AXI-to-APB handshaking** and data transfer.
-* Key Focus: **Data synchronization**, latency minimization, and structural integrity.
-* Verification: Developed **SystemVerilog Testbenches** to ensure functional correctness across the boundary.
+* **Role:** Design and Verification.
+* Designed a functional bridge interface for **AXI (high-performance) to APB (low-power) communication**.
+* Key Focus: Implemented logic for **data synchronization, handshaking**, and minimizing **latency** during cross-protocol transfers.
+* **Verification:** Employed dedicated **SystemVerilog testbenches** for full functional coverage.
 
-### **2. APB Protocol Interfacing (Master/Slave)**
-* Developed a scalable APB subsystem with **1 Master and 3 Slaves**.
-* Verification: Built modular **SystemVerilog Testbenches** to rigorously check protocol timing requirements, including **Hold, Setup, and Active states**.
-* Demonstrates strong foundational knowledge of low-power APB communication.
+### **2. APB Protocol Verification Subsystem**
+* **Role:** Verification Engineer.
+* Developed the **APB Protocol** test environment consisting of **1 Master and 3 Slaves**.
+* **Verification:** Created **SystemVerilog testbenches** to rigorously verify all APB states and timing requirements, focusing on **Setup, Hold, and Active cycle verification**.
 
-### **3. AHB to APB Bridge**
-* Successfully implemented the inter-protocol communication logic between the **AHB** and **APB** bus protocols.
-* Reinforced deep understanding of the **AMBA protocol hierarchy** and bus bridging techniques.
-* Verified using dedicated SystemVerilog testbenches.
-
----
-
-## 🏅 Certification & Technical Foundation
-
-| Institution | Course / Certification | Focus Area |
-| :--- | :--- | :--- |
-| **Cadence** | SystemVerilog for Design & Verification v21.10 | Core **Functional Verification** |
-| **Cadence** | Digital IC Design Fundamentals v2.0 | Digital RTL and Design Principles |
-| **Cisco** | C Programming | Foundational Programming & Algorithms |
-| **IIT Bombay** | Python, C++ | Scripting and OOPs Fundamentals |
-| **Cadence** | Semiconductor 101 v1.0 | Industry Concepts & VLSI Flow |
+### **3. AHB to APB Bridge Implementation**
+* **Role:** Design Implementation.
+* Implemented and verified the communication logic between the **AHB** and **APB** bus protocols, enhancing understanding of the **AMBA protocol hierarchy**.
+* Verified functionality using tailored SystemVerilog environments.
 
 ---
 
-## 📈 GitHub Activity: My Coding Pulse
+## 🏅 Certifications & Deep-Dive Training
 
-Metrics showcasing consistent activity and language usage.
+Showcasing training in industry-standard tools and methodologies.
+
+* **Cadence Certified:** SystemVerilog for Design & Verification v21.10
+* **Cadence Certified:** Digital IC Design Fundamentals v2.0
+* **Cadence Certified:** Behavioral Modeling with Verilog-AMS v24.03
+* **Cisco:** C Programming Certification
+* **IT Specialist:** HTML & CSS
+* **IIT Bombay Spoken Tutorial:** Python, C++
+
+---
+
+## 📈 My GitHub Activity: Black & Pink Theme 💜
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mounika2327&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&line_height=25" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika2327&theme=vue-dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mounika2327&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika2327&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika2327&layout=compact&theme=vue-dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika2327&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
